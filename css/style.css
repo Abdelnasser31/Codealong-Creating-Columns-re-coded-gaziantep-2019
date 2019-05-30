@@ -97,3 +97,11 @@ background: #ddd;
 .first{
   margin-left: 0%;
 }
+.clear-fix::after{
+  content: '.';
+  display: block;
+  clear: both;
+  height: 0;
+  line-height: 0;
+  visibility: hidden;
+}
