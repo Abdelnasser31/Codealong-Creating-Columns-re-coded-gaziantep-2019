@@ -89,7 +89,7 @@ background: #ddd;
   background: #aaa;
 }
 .col-3{
-  
+  background: #aaa;
 }
 [class*="col-"]{
   margin-left: 2%;
