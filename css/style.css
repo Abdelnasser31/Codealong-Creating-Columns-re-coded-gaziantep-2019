@@ -112,5 +112,6 @@ background: #ddd;
 
 /*///////////////////   Sections  //////////////////*/
 section{
-  
+  margin-bottom: 22px;
+  padding:22px;
 }
