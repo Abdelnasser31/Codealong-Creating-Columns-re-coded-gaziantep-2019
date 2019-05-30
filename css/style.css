@@ -98,7 +98,7 @@ background: #ddd;
   margin-left: 2%;
 }
 .first{
-  margin-left: 0%;
+  margin-left: 0;
 }
 .clear-fix::after{
   content: '.';
@@ -107,4 +107,10 @@ background: #ddd;
   height: 0;
   line-height: 0;
   visibility: hidden;
+}
+
+
+/*///////////////////   Sections  //////////////////*/
+section{
+  
 }
